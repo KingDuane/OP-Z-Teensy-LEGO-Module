@@ -19,6 +19,6 @@
       @@@@@@@@                @@@@@@@@@@@@@@@@@@@@               @@@@@@@@@@     
 ```
 # OP-Z Teensy LEGO Module
-An OP-Z synth plugin prototype based on [Teensy](https://www.pjrc.com/teensy/).
+A synthesizer plugin prototype based on [Teensy](https://www.pjrc.com/teensy/) for [Teenage Engineering OP-Z](https://teenage.engineering/guides/op-z).
 
-Use Arduino IDE to open `opz-teensy` and upload it to a Teensy 4.1 board with an Audio Adaptor Shield. Configure Arduino IDE for Teensy board with `Tools > USB Type > MIDI`.
+Use Arduino IDE to open `opz-teensy` and configure with `Tools > USB Type > MIDI` then upload to a Teensy 4.1 board with an Audio Adaptor Shield.
