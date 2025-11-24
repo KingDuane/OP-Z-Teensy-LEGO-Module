@@ -35,3 +35,11 @@ Use Arduino IDE to open `opz-teensy` and configure with `Tools > USB Type > MIDI
 - 1x LEGO 3036 Plate 6 x 8
 - 2x LEGO 3034 Plate 2 x 8
 - 6x LEGO 3020 Plate 2 x 4
+
+### OP-Z Control → Teensy Parameter
+- Red Dial     → Filter Cutoff
+- Green Dial   → Reverb Mix
+- Blue Dial    → Delay Time
+- Yellow Dial  → Drive Amount
+- Track 1      → Input Level
+- Track 2      → Bitcrusher
