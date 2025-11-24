@@ -28,8 +28,10 @@ Use Arduino IDE to open `opz-teensy` and configure with `Tools > USB Type > MIDI
 ### Internal Components
 - [Teensy 4.1](https://www.pjrc.com/store/teensy41.html)
 - [Teensy Audio Adaptor Rev D](https://www.pjrc.com/store/teensy3_audio.html)
-- 3.5mm 4 Pin Stereo Jack Breakout Board
-- USB Type C Male Plug to 2 Pin Pigtail
+- [TRSS 3.5mm Jack Breakout Board](https://www.sparkfun.com/sparkfun-trrs-3-5mm-jack-breakout.html)
+- [USB-C Breakout Board - Horizontal](https://www.sparkfun.com/sparkfun-usb-c-breakout.html)
+- [2x Straight Header - Male 14-Pin](https://www.sparkfun.com/straight-header-male-gold-plating-pth-0-1in-14-pin.html)
+- [Teensy Extended Header Kit](https://www.sparkfun.com/teensy-extended-header-kit.html)
 
 ### LEGO Case Parts
 - 1x LEGO 3036 Plate 6 x 8
@@ -37,9 +39,9 @@ Use Arduino IDE to open `opz-teensy` and configure with `Tools > USB Type > MIDI
 - 6x LEGO 3020 Plate 2 x 4
 
 ### OP-Z Control → Teensy Parameter
-- Red Dial     → Filter Cutoff
 - Green Dial   → Reverb Mix
 - Blue Dial    → Delay Time
 - Yellow Dial  → Drive Amount
+- Red Dial     → Filter Cutoff
 - Track 1      → Input Level
 - Track 2      → Bitcrusher
