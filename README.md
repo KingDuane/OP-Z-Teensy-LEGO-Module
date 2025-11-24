@@ -24,9 +24,15 @@ A [Teensy](https://www.pjrc.com/teensy/) powered DSP module for [Teenage Enginee
 ![Moonshot OP-Z](https://freight.cargo.site/t/original/i/Y2663377974534190958873264783736/moonshot_op-z_identity.png)
 
 ## Build Status: Early Prototype (v0.1)
-- Hardware: v2 LEGO Enclosure: Work-in-Progress
-- USB-C > MIDI: Working
-- DSP Code: Working
+- Hardware
+  - v2 LEGO Enclosure: Work-in-Progress
+  - USB-C > MIDI: Working
+  - Audio Adaptor: Soldering
+  - 3.5mm Breakout Board: Soldering
+  - USB-C Breakout Board: Soldering
+- Software
+  - DSP Code: Working
+  - Added Expressive LED
 
 ## Instructions
 Use Arduino IDE to open `opz-teensy` and configure with `Tools > USB Type > MIDI` then upload to a Teensy board with an Audio Adaptor Shield.
