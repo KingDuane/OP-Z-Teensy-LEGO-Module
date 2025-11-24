@@ -56,5 +56,5 @@ Use Arduino IDE to open `opz-teensy` and configure with `Tools > USB Type > MIDI
 - Blue Dial    → Delay Time
 - Yellow Dial  → Drive Amount
 - Red Dial     → Filter Cutoff
-- Track 1      → Input Level
-- Track 2      → Bitcrusher
+- Track 1 CC (Kick) → Input Level
+- Track 2 CC (Snare) → Bitcrusher
