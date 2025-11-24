@@ -19,7 +19,7 @@
       @@@@@@@@                @@@@@@@@@@@@@@@@@@@@               @@@@@@@@@@     
 ```
 # OP-Z Teensy LEGO Module
-A [Teensy](https://www.pjrc.com/teensy/) powered DSP module for [Teenage Engineering OP-Z](https://teenage.engineering/guides/op-z). Housed in a custom LEGO enclosure with swappable panels. Based on forked OP-Z Teensy code, with ongoing hardware and firmware refinements.
+A [Teensy](https://www.pjrc.com/teensy/) powered DSP module for [Teenage Engineering OP-Z](https://teenage.engineering/guides/op-z), housed in a custom LEGO enclosure with swappable panels. Based on forked OP-Z Teensy code with ongoing hardware and firmware refinements.
 
 ![Moonshot OP-Z](https://freight.cargo.site/t/original/i/Y2663377974534190958873264783736/moonshot_op-z_identity.png)
 
@@ -39,6 +39,7 @@ Use Arduino IDE to open `opz-teensy` and configure with `Tools > USB Type > MIDI
 
 ## Bill of Materials
 ### Internal Components
+- [Teensy 4.0](https://www.pjrc.com/store/teensy40.html)
 - [Teensy 4.1](https://www.pjrc.com/store/teensy41.html)
 - [Teensy Audio Adaptor Rev D](https://www.pjrc.com/store/teensy3_audio.html)
 - [TRSS 3.5mm Jack Breakout Board](https://www.sparkfun.com/sparkfun-trrs-3-5mm-jack-breakout.html)
