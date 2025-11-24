@@ -34,9 +34,9 @@ Use Arduino IDE to open `opz-teensy` and configure with `Tools > USB Type > MIDI
 - [Teensy Extended Header Kit](https://www.sparkfun.com/teensy-extended-header-kit.html)
 
 ### LEGO Case Parts
-- 1x LEGO 3036 Plate 6 x 8
-- 2x LEGO 3034 Plate 2 x 8
-- 6x LEGO 3020 Plate 2 x 4
+- [1x LEGO 3036 Plate 6 x 8](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3036)
+- [2x LEGO 3034 Plate 2 x 8](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3034)
+- [6x LEGO 3020 Plate 2 x 4](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3020)
 
 ### OP-Z Control → Teensy Parameter
 - Green Dial   → Reverb Mix
